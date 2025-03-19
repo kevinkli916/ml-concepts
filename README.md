@@ -6,7 +6,7 @@ Jupyter Notebooks demonstrating fundamental machine learning concepts.
 
 ### Prerequisites
 
-- Python 3.11 is recommended. Tensorflow supports Python 3.9-3.12, so virtual environments using Python 3.13+ will need to downgrade.
+- Python 3.11 is recommended. Tensorflow supports Python 3.9-3.12, so virtual environments using Python 3.13+ will need to be downgrade.
 
 ### Setup
 
