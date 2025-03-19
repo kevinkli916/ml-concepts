@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
 ._*.ipynb
 ml-concepts/
+datasets/._*
+datasets/pics/._*
