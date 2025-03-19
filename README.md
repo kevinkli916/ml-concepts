@@ -11,18 +11,18 @@ Jupyter Notebooks demonstrating fundamental machine learning concepts.
 ### Setup
 
 1. It's recommended to use a virtual enviornment to manage dependencies.
-   `python3.11 -m ml-concepts-venv `
+   <br/>`python3.11 -m ml-concepts-venv `
 2. If using a virtual environment, activate virtual environment.
 
 - macOS/Linux:
-  `source ml-concepts-venv/bin/activate`
+  <br/>`source ml-concepts-venv/bin/activate`
 - Windows:
-  `ml-concepts-venv\Scripts\activate`
+  <br/>`ml-concepts-venv\Scripts\activate`
 
 3. Install Jupyter Notebook.
-   `pip install notebook`
+   <br/>`pip install notebook`
 4. Start Jupyter Notebook.
-   `jupyter notebook`
+   <br/>`jupyter notebook`
 
 ## Contents
 
@@ -41,4 +41,4 @@ These are 7 Jupyter Notebooks used:
 The first code block of each notebook installs required packages for that notebook. Restart the kernel after installing the packages for the new packages to be recognized.
 
 Otherwise, packages required for all packages can be installed all at once using requirements.txt.
-`pip install -r requirements.txt`
+<br/>`pip install -r requirements.txt`
